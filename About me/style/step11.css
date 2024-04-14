@@ -1,7 +1,0 @@
-/* 头像样式 */
-.avatar {
-    float: left; /* 设置头像左浮动 */
-    margin-right: 40px; /* 设置头像右边距为20px */
-    border-radius: 50%; /* 设置圆形头像 */
-    width: 150px; /* 设置头像宽度为100px */
-}

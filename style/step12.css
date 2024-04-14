@@ -1,0 +1,10 @@
+.name {
+    margin-bottom: 12px; /* 设置用户名下方外边距为12px */
+    font-size:50px;
+}
+
+.bio {
+    color: rgb(132, 130, 218); /* 设置颜色为灰色 */
+    font-size:20px;
+}
+
